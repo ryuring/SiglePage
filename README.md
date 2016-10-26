@@ -2,6 +2,6 @@
 
 this is baserCMS Sample Plugin.
 
-Simple Multiple Blog.
+Simple Single Page.
 
 - See [baserCMS](https://github.com/baserproject/basercms)
